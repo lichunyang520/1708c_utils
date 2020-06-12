@@ -1,10 +1,7 @@
 package com.lcy.utils;
 
-
-
-public class lcy {
-
+public class Abc {
     public static void main(String[] args) {
-        System.out.println("lalalallal");
+        System.out.println("dodododoododododo");
     }
 }
